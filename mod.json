@@ -1,0 +1,24 @@
+{
+	"name" : "Invite hero",
+	"description" : "Possibility to invite hero in the tavern",
+	"version" : "1.0",
+	"author" : "Laserlicht",
+	"modType" : "Expansion",
+	"compatibility":
+	{
+		"min" : "1.5.0"
+	},
+	"changelog":
+	{
+		"1.0": ["Initial version"]
+	},
+	"settings" : {
+		"heroes" : {
+			"tavernInvite" : true
+		}
+	},
+	"german" : {
+		"name" : "Helden einladen",
+		"description" : "Möglichkeit in der Taverne Helden einzuladen"
+	}
+}
