@@ -1,8 +1,9 @@
 {
 	"name" : "Invite hero",
 	"description" : "Possibility to invite hero in the tavern",
-	"version" : "1.0",
-	"author" : "Laserlicht",
+	"version" : "1.0.1",
+	"author"  : "Laserlicht",
+	"contact" : "",
 	"modType" : "Expansion",
 	"compatibility":
 	{
@@ -10,7 +11,8 @@
 	},
 	"changelog":
 	{
-		"1.0": ["Initial version"]
+		"1.0"   : ["Initial version"],
+		"1.0.1" : ["Czech translation by George King"]
 	},
 	"settings" : {
 		"heroes" : {
@@ -20,5 +22,9 @@
 	"german" : {
 		"name" : "Helden einladen",
 		"description" : "Möglichkeit in der Taverne Helden einzuladen"
+	},
+	"czech" : {
+		"name" : "Pozvat hrdinu",
+		"description" : "Možnost pozvat hrdinu v Putyce."
 	}
 }
