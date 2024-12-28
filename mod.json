@@ -26,5 +26,9 @@
 	"czech" : {
 		"name" : "Pozvat hrdinu",
 		"description" : "Možnost pozvat hrdinu v Putyce."
+	},	
+	"chinese" : {
+		"name" : "邀请英雄",
+		"description" : "允许从酒馆里邀请英雄。"
 	}
 }
